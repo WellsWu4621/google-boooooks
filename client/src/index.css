@@ -1,5 +1,12 @@
 body {
   font-family: 'Rubik', sans-serif;
+  background-color: pink;
+  color: transparent;
+  transform: rotate(69deg);
+  -webkit-transform: rotate(69deg);
+  -moz-transform: rotate(69deg);
+  -ms-transform: rotate(69deg);
+  -o-transform: rotate(69deg);
 }
 
 h1,
@@ -9,6 +16,7 @@ h4,
 h5,
 h6 {
   font-family: 'Rubik Mono One', sans-serif;
+  color: transparent;
 }
 
 .small {
